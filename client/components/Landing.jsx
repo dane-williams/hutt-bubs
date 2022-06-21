@@ -9,7 +9,7 @@ function Landing () {
           <li className="prev">&#10094;</li>
           <li className="next">&#10095;</li>
           <li>Wainuiomata<br/>
-            <span style={{ fontSize: '18px' }}>2021</span>
+            <span style={{ fontSize: '18px' }}>2022</span>
           </li>
         </ul>
       </div>
